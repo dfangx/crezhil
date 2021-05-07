@@ -1,5 +1,6 @@
 # Ezhil
 
+**Custom fork of [vividvilla/ezhil](https://github.com/vividvilla/ezhil). Refactors code using base templates.**
 Clean and minimal personal blog and portfolio theme for Hugo.
 
 ## Demo
